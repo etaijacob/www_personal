@@ -2,6 +2,9 @@
 layout: project
 title: Lattice model protein folding simulations
 subtitle: Why are terminal residues of proteins exposed?
+html_document:
+    includes:
+       in_header: gtag.html
 ---
 Studying the fundamental questions underlying the phenomenon of protein folding has been facilitated by the introduction of simple folding models simulations. Simple, or even abstract, models of protein folding, while ignoring many of the small details of this process, are very useful for elucidating general principles regarding protein folding. Clearly, simple model experiments can not be used to definitively prove specific folding phenomena, but conclusions from simple models can certainly be used to promote and critically assess ideas about protein folding mechanisms. In this research I used one of the major simple folding models - the lattice model. In this model, the polypeptide chains in the simulations are modeled as a linear sequence of residues on a 2D lattice, where a reduced number of residues types are used and interaction potentials between residues reflect the average strength of interactions in empirical mean force potentials.
 
