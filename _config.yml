@@ -1,7 +1,7 @@
 source:      .
-destination: ./_site
+destination: ../etaijacob.github.io
 includes:    ./_includes
-baseurl: /~etaijacob
+baseurl: 
 
 collections:
   projects:
