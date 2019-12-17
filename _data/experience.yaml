@@ -1,0 +1,44 @@
+experiences:
+- place: "Dana-Farber Cancer Institute"
+  time: "Sep 2016-now"
+  title: "Computational Biologist"
+  subtitle: "Department of Data Sciences"
+  category: "work"
+
+- place: "Compugen"
+  time: "2011-2016"
+  title: "Senior Scientist"
+  subtitle: "Computational Research and Discovery"
+  category: "work"
+  
+- place: "Weizmann Institute of Science<br>Bar-Ilan University"
+  time: "2011-2016"
+  title: "Ph.D. Candidate"
+  subtitle: "Computational Biology"
+  category: "school"
+  
+- place: "Compugen"
+  time: "2008 - 2011"
+  title: "Project leader"
+  subtitle: "Computational Research and Discovery"
+  category: "work"
+  
+- place: "Compugen"
+  time: "2006 - 2008"
+  title: "Algorithm developer"
+  subtitle: "Algorithmic Research group"
+  category: "work"
+  
+- place: "Bar-Ilan University"
+  time: "2005 - 2006"
+  title: "Teaching assistant"
+  subtitle: "Introduction to computing and computer aided problem solving"
+  category: "work"
+  
+- place: "Bar-Ilan University"
+  time: "2005 - 2006"
+  title: "M.Sc. student"
+  subtitle: "Computational biology"
+  category: "school"
+  
+  

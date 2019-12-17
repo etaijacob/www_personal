@@ -1,0 +1,78 @@
+papers:
+
+  - title: "Adipocytes sensitize melanoma cells to environmental TGF-β cues by repressing the expression of miR-211."
+    authors: "Tamar Golan, Roma Parikh, <b>Etai Jacob</b>, Hananya Vaknine, Valentina Zemser-Werner, Dov Hershkovitz, Hagar Malcov, Stav Leibou, Hadar Reichman, Danna Sheinboim, Ruth Percik, Sarah Amar, Ronen Brenner, Shoshana Greenberger, Andrew Kung, Mehdi Khaled, Carmit Levy"
+    venue: "Science Signaling,  23 Jul 2019: Vol. 12, Issue 591, eaav6847"
+    link: "https://doi.org/10.1126/scisignal.aav6847"
+    paper_pdf: 
+    video: 
+    selected: y
+
+  - title: "Breaching self-tolerance to Alu duplex RNA underlies MDA5-mediated inflammation."
+    authors: "Sadeem Ahmad, Xin Mu, Fei Yang, Emily Greenwald, Ji Woo Park, <b>Etai Jacob</b>, Cheng-Zhong Zhang, Sun Hur"
+    venue: "Cell, Volume 172, Issue 4, 8 February 2018, Pages 797-810.e13"
+    paper_pdf: 
+    link: "https://doi.org/10.1016/j.cell.2017.12.016"
+    selected: y
+
+  - title: "Cross-linking reveals laminin coiled-coil architecture."
+    authors: "Gad Armony, <b>Etai Jacob</b>, Toot Moran, Yishai Levin, Tevie Mehlman, Yaakov Levy, Deborah Fass"
+    venue: "PNAS, November 22, 2016 113 (47) 13384-13389"
+    paper_pdf: 
+    link: "https://doi.org/10.1073/pnas.1608424113"
+    selected: y
+  
+  - title: "Extracting Insights Into Protein Structures from Their Sequences."
+    authors: "<b>Etai Jacob</b>"
+    venue: "Dissertation, Feb. 2016"
+    print: "/assets//publications/PhD_thesis_etai_jacob.pdf"
+    link: 
+    selected: y
+    
+  - title: "Codon-level information improves predictions of inter-residue contacts in proteins by correlated mutation analysis."
+    authors: "<b>Etai Jacob</b>, Ron Unger, Amnon Horovitz"
+    venue: "eLife, Sep 2015, 4:e08932."
+    paper_pdf: 
+    link: "http://dx.doi.org/10.7554/eLife.08932.001"
+    video: 
+    highlighted: "/assets//publications/nmeth.3634.pdf"
+    selected: y
+
+  - title: "N-terminal domains in two-domain proteins are biased to be shorter and predicted to fold faster than their C-terminal counterparts."
+    authors: "<b>Etai Jacob</b>, Ron Unger, Amnon Horovitz"
+    venue: "Cell Reports, Volume 3, Issue 4, 25 April 2013, Pages 1051-1056"
+    link: "https://doi.org/10.1016/j.celrep.2013.03.032"
+    paper_pdf: 
+    poster: 
+    selected: y
+
+  - title: "Computational studies of protein chaperone mediated folding interactions."
+    authors: "<b>Etai Jacob</b>"
+    venue: "M.Sc. Thesis, 2007"
+    print: "/assets//publications/MSc_thesis_etai_jacob.pdf"
+    link: 
+    selected: y
+    
+  - title: "Different mechanistic requirements for prokaryotic and eukaryotic chaperonins: a lattice study."
+    authors: "<b>Etai Jacob</b>, Amnon Horovitz, Ron Unger"
+    venue: "Bioinformatics, Volume 23, Issue 13, July 2007, Pages i240–i248"
+    paper_pdf:
+    link: "https://doi.org/10.1093/bioinformatics/btm180"
+    poster: 
+    selected: y
+
+  - title: "A tale of two tails: why are terminal residues of proteins exposed?."
+    authors: "<b>Etai Jacob</b>, Ron Unger"
+    venue: "Bioinformatics, Volume 23, Issue 2, 15 January 2007, Pages e225–e230"
+    paper_pdf:
+    link: "https://doi.org/10.1093/bioinformatics/btl318"
+    poster: 
+    selected: y
+
+  - title: "New cell-penetrating peptides and uses thereof."
+    authors: "<b>Etai Jacob</b>, Amir Toporik, Ronen Shemesh, Ofer Levy"
+    venue: "Application US13/976,502 filed by Compugen Ltd., 2010-12-27"
+    paper_pdf:
+    url: "https://patents.google.com/patent/US20140056811A1/en"
+    poster: 
+    selected: n

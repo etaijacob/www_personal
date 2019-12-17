@@ -1,0 +1,30 @@
+projects:
+  - title: "Single cell RNA-seq analysis"
+    subtitle: "Detection of transcriptional abnormalities and copy number variations"
+    thumbnail: "assets/projects/2019_single_cell_RNA/singlecell.jpg"
+    url: "projects/2019_single_cell_rnaseq_cnv.html"
+    selected: y
+
+  - title: "Correlated mutation analysis"
+    subtitle: "Codon-level information improves predictions of inter-residue contacts in proteins"
+    thumbnail: "assets/projects/2015_correlated_muts/codon_cma.jpg"
+    url: "projects/2015_correlated_mutations.html"
+    selected: y
+    
+  - title: "Multidomain protein folding"
+    subtitle: "N-Terminal domains in two-domain proteins are biased to be shorter and predicted to fold faster than their C-terminal counterparts"
+    thumbnail: "assets/projects/2013_NC_bias/NC_bias_abstract.jpg"
+    url: "projects/2013_NC_bias.html"
+    selected: y
+
+  - title: "Lattice model protein folding simulations"
+    subtitle: "Why are terminal residues of proteins exposed?"
+    thumbnail: "assets/projects/2007_lattice_models/folding_25mer.png"
+    url: "projects/2007_lattice_models.html"
+    selected: y
+
+  - title: "Protein-chaperonin interactions"
+    subtitle: "Computational studies of protein chaperone mediated folding interactions"
+    thumbnail: "assets/projects/2007_protchap/chaperonin_lattice.png"
+    url: "projects/2007_protchap.html"
+    selected: y
