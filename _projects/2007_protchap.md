@@ -35,3 +35,9 @@ In this figure, an octameric chaperonin is depicted.  (1) The chaperonin cavity 
 
 This work was published in <a href="https://doi.org/10.1093/bioinformatics/btm180" target="_blank">Bioinformatics</a> 
 
+<h4>Source code</h4>
+The source code is included in a C++ software suite:
+
+* A Software suite to perform enumeration and simulations of a simplified model (i.e. toy model) of protein structure and folding process: <a href="https://github.com/etaijacob/TOYFOLD" target="_blank">TOYFOLD</a>.
+
+
